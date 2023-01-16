@@ -1,0 +1,42 @@
+#navbarNav {
+    /* background-color: rgb(114, 127, 123); */
+    justify-content: flex-end;
+}
+.container-fluid {
+background: linear-gradient(to right, rgba(229, 187, 120, 0.922), rgba(245, 101, 6, 0.74));
+padding: 20px;
+}
+.navbar-brand img {
+    width: 70px;
+}
+.navbar-nav {
+    font-size: 20px;
+    font-weight: 100px;
+    color: rgb(7, 7, 7);
+}
+.Mandate {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    background-color: rgb(229, 187, 120);
+
+
+}
+.About-us img {
+    width: 400px;
+    height: 400px;
+    border-radius: 300px;
+    padding: 20px;
+}
+.About-text {
+    padding-top: 30px;
+}
+
+.carousel-item img {
+    width: 100x;
+    height: 700px;
+    padding-top: 20px;
+}
+.About-text h1 {
+    color: blue;
+}
